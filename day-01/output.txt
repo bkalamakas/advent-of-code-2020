@@ -1,0 +1,5 @@
+Looking for (a, b) solutions
+Found (a, b) = (1184, 836) where a + b = 2020. Therefore a * b = 989824 is one solution.
+
+Looking for (a, b, c) solutions
+Found (a, b, c) = (1614, 210, 196) where a + b + c = 2020. Therefore a * b * c = 66432240 is one solution.
