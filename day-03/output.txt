@@ -1,0 +1,10 @@
+PART1: 
+Encountered 250 tree(s) while sliding down [3, 1]
+
+PART2:
+Encountered 55 tree(s) while sliding down [1, 1]
+Encountered 250 tree(s) while sliding down [3, 1]
+Encountered 54 tree(s) while sliding down [5, 1]
+Encountered 55 tree(s) while sliding down [7, 1]
+Encountered 39 tree(s) while sliding down [1, 2]
+Product of the results: 1592662500
