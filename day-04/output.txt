@@ -1,0 +1,2 @@
+PART1 - Passports with required fields : 226
+PART2 - Passports with valid fields : 160
