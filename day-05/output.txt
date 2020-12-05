@@ -1,0 +1,2 @@
+PART1 - Highest seat Id: 848
+PART2 - Available seat Id: 682
