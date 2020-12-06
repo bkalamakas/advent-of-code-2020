@@ -1,0 +1,2 @@
+PART1 - Sum of positive questions : 6583
+PART2 - Sum of common positive questions : 3290
