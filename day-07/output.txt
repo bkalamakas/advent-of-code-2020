@@ -1,0 +1,2 @@
+PART1 - 177 bags can contain at least one shiny gold bag.
+PART2 - 34988 required bags in shiny bag.
