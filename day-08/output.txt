@@ -1,0 +1,2 @@
+PART1 - Accumulator : 2080
+PART2 - Fixed instruction #346. Accumulator = 2477.
