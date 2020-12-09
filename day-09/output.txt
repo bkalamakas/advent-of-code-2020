@@ -1,0 +1,2 @@
+PART1 - Can't find a satisfying sum for value 1639024365.
+PART2 - Encryption weakness: 219202240.
