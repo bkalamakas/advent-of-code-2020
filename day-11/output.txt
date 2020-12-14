@@ -1,0 +1,2 @@
+PART1 - 2344 occupied seat(s) in 83 iteration(s)
+PART2 - 2076 occupied seat(s) in 86 iteration(s)
